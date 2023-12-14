@@ -5,7 +5,7 @@ I am a software engineering student passionate about software development and em
 ## My interests 👀
 
 - Software development
-- Programming in C#,HTML,CSS, Java, Python, and JavaScript
+- Programming in C#,HTML,CSS, SQL, NoSQL,Python, and JavaScript
 - Artificial intelligence and machine learning
 - blockchain developer
 - Web development
